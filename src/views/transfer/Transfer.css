@@ -1,0 +1,15 @@
+.error {
+    color: red;
+}
+
+.label {
+    width: 100px;
+}
+
+.transfer {
+    text-align: left;
+}
+
+.formItem {
+    display: flex;
+}
